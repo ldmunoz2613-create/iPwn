@@ -6,5 +6,5 @@ Description: With the release of SigPass it is now possible to load unsigned, da
 Maintainer: ghost
 Author: bag-xml
 Section: Tweaks
-Filename: pool/main/sigpass.deb
+Filename: repo/pool/main/sigpass.deb
 Size: 12345
