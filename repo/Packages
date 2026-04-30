@@ -6,5 +6,5 @@ Section: Tweaks
 Description: With the release of SigPass it is now possible to load unsigned, damaged or just forged passes onto iOS 6 and 7
 Maintainer: ghost
 Author: bag-xml
-Filename: pool/main/sigpass.deb
+Filename: iPwn/repo/pool/main/sigpass.deb
 Size: 12345
