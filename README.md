@@ -1,7 +1,5 @@
-# lawin-cydia
-### Ignore this repository, it is for myself.
-
-My personal Cydia repo containing tweaks that I use.
+# ghost-cydia
+### Everything you need for ios 4-10.
 
 ## This includes
 ### Tweaks
